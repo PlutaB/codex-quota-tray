@@ -1,0 +1,6 @@
+# Local build and editor artifacts
+bin/
+obj/
+*.pdb
+*.user
+.vs/
