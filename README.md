@@ -9,10 +9,10 @@ For the macOS version, see [PlutaB/codex-quota-menubar](https://github.com/Pluta
 ## Tray icon preview
 
 <p align="center">
-  <img src="Codex%20Quota%20Tray.png" alt="Codex Quota Tray green status icon" width="136">
+  <img src="Codex%20Quota%20Tray.png" alt="Codex Quota Tray showing six days remaining" width="186">
 </p>
 
-<p align="center"><em>The green Codex Quota Tray icon shown enlarged for visibility.</em></p>
+<p align="center"><em>Codex Quota Tray showing six days remaining in the current quota window.</em></p>
 
 The app runs unobtrusively in the Windows notification area. Hover over the icon for a quick quota summary, or right-click it to refresh usage, open the Codex session-log folder, toggle launch at startup, or quit. The icon changes from green to amber and red as the remaining quota decreases.
 
