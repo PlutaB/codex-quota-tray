@@ -2,11 +2,11 @@
 
 **Version:** v1.0
 
-Windows notification-area (system tray) edition of Codex Quota Menu Bar. It reads local Codex session logs only; no network connection or API key is used.
+Codex Quota Tray is a lightweight Windows notification-area app for monitoring Codex quota from local session logs, with no API key or network connection required.
 
 <img src="Codex%20Quota%20Tray.png" alt="Codex Quota Tray showing six days remaining" width="96">
 
-The tray icon above shows six days remaining in the current quota window. Hover over it for a quick quota summary, or right-click it to refresh usage, open the Codex session-log folder, toggle launch at startup, or quit. The icon changes from green to amber and red as the remaining quota decreases.
+Screenshot of the tray icon.
 
 For the macOS version, see [PlutaB/codex-quota-menubar](https://github.com/PlutaB/codex-quota-menubar).
 
