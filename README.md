@@ -24,7 +24,7 @@ Right-click the tray icon and choose **Start at login**. This creates/removes a 
 
 ## Author
 
-**PlutaB**  
+[**PlutaB**](https://github.com/PlutaB)  
 Adapted from [BowenZZZZZZZ/codex-quota-menubar](https://github.com/BowenZZZZZZZ/codex-quota-menubar)
 
 ## License
