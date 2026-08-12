@@ -6,6 +6,8 @@ Windows notification-area (system tray) edition of Codex Quota Menu Bar. It read
 
 For the macOS version, see [PlutaB/codex-quota-menubar](https://github.com/PlutaB/codex-quota-menubar).
 
+![Codex Quota Tray screenshot](Codex%20Quota%20Tray.png)
+
 ## Run
 
 Double-click `CodexQuotaTray.exe`. A compact indicator appears in the lower-right notification area (it may initially be in the `^` overflow menu). Hover or right-click it for quota details, refresh, session-log folder access, startup toggle, and quit.
