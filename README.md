@@ -6,7 +6,15 @@ Windows notification-area (system tray) edition of Codex Quota Menu Bar. It read
 
 For the macOS version, see [PlutaB/codex-quota-menubar](https://github.com/PlutaB/codex-quota-menubar).
 
-![Codex Quota Tray screenshot](Codex%20Quota%20Tray.png)
+## Tray icon preview
+
+<p align="center">
+  <img src="Codex%20Quota%20Tray.png" alt="Codex Quota Tray green status icon" width="136">
+</p>
+
+<p align="center"><em>The green Codex Quota Tray icon shown enlarged for visibility.</em></p>
+
+The app runs unobtrusively in the Windows notification area. Hover over the icon for a quick quota summary, or right-click it to refresh usage, open the Codex session-log folder, toggle launch at startup, or quit. The icon changes from green to amber and red as the remaining quota decreases.
 
 ## Run
 
