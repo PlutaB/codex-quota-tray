@@ -4,7 +4,7 @@
 
 Codex Quota Tray is a lightweight Windows notification-area app for monitoring Codex quota from local session logs, with no API key or network connection required.
 
-Below is a screenshot of the tray icon.
+Below is a screenshot of the tray icon.<br>
 <img src="Codex%20Quota%20Tray.png" alt="Codex Quota Tray showing six days remaining" width="96">
 
 For the macOS version, see [PlutaB/codex-quota-menubar](https://github.com/PlutaB/codex-quota-menubar).
